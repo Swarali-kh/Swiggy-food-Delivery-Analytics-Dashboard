@@ -38,7 +38,7 @@ This dashboard analyzes Swiggy's food delivery operations across **4 interactive
 
 ### 🏠 Page 1 — Overview
 
-![Overview](Screenshots/Overview.png)
+![Overview](Overview.png)
 
 The **Overview page** is the executive summary of the entire Swiggy platform. It gives a bird's-eye view of overall business performance with dynamic filters.
 
@@ -53,7 +53,7 @@ The **Overview page** is the executive summary of the entire Swiggy platform. It
 
 ### 👥 Page 2 — User Performance
 
-![User Performance](Screenshots/User_Performance.png)
+![User Performance](User_Performance.png)
 
 The **User Performance page** digs into customer demographics and buying behavior — who is ordering on Swiggy and how.
 
@@ -68,7 +68,7 @@ The **User Performance page** digs into customer demographics and buying behavio
 
 ### 🗺️ Page 3 — City Overview
 
-![City Overview](Screenshots/City_Overview.png)
+![City Overview](City_Overview.png)
 
 The **City Overview page** provides a geographic and tabular breakdown of Swiggy's performance across 821 cities in India.
 
@@ -83,7 +83,7 @@ The **City Overview page** provides a geographic and tabular breakdown of Swiggy
 
 ### 🍽️ Page 4 — Restaurant Analysis
 
-![Restaurant Analysis](Screenshots/Restaurant_Analysis.png)
+![Restaurant Analysis](Restaurant_Analysis.png)
 
 The **Restaurant Analysis page** focuses on restaurant-level performance, cuisine popularity, and food type distribution.
 
