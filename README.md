@@ -107,70 +107,9 @@ The **Restaurant Analysis page** focuses on restaurant-level performance, cuisin
 
 ---
 
-## 📂 Dataset
-
-This project uses **5 datasets**:
-
-| File | Description |
-|------|-------------|
-| `food.csv` | Food items and categories |
-| `menu.csv` | Restaurant menu details |
-| `restaurants.csv` | Restaurant information |
-| `users.csv` | Customer demographics |
-| `orders.csv` | Order transactions |
-
----
-
 ## 📂 Project Structure
 
-```
-Swiggy-food-delivery-Analytics-Power-Bi/
-│
-├── Dataset/
-│   ├── food.csv
-│   ├── menu.csv
-│   ├── restaurants.csv
-│   ├── users.csv
-│   └── orders.csv
-│
-├── Screenshots/
-│   ├── overview.png
-│   ├── user_performance.png
-│   ├── city_overview.png
-│   └── restaurant_analysis.png
-│
-└── README.md
-```
 
----
 
-## 🎯 Career & Portfolio Value
 
-This project demonstrates industry-level Power BI skills for:
 
-- Data Analyst roles
-- Business Intelligence positions
-- Power BI Developer opportunities
-- Fresher & entry-level job applications
-
----
-
-## 🔮 Future Improvements
-
-- Real-time API Integration
-- Predictive Delivery Time Estimation
-- Customer Churn Prediction Model
-- Python EDA Integration
-
----
-
-## 👩‍💻 Author
-
-**Swarali**  
-Data Analytics Enthusiast | Power BI Developer | B.E. Electronics & Telecommunication
-
-🔗 [LinkedIn](https://linkedin.com/in/swarali-khandagale-2ab754359)
-
----
-
-⭐ *If you found this project useful, give it a star on GitHub!*
